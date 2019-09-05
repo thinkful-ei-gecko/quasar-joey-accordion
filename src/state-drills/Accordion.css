@@ -1,0 +1,22 @@
+button{
+    font-size: 22px;
+}
+ul{
+list-style: none;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+li{
+margin: 100px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+}
+li p{
+background-color: rgb(32, 32, 41);
+color: white;
+}
